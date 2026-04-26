@@ -26,3 +26,12 @@ Model performance and evaluation metrics are documented in the published IEEE pa
 
 ## How to Run
 ```bash
+git clone https://github.com/rishtha/Indian-Sign-Language.git
+cd Indian-Sign-Language
+pip install -r requirements.txt
+python main.py
+```
+
+## Author
+Rishitha Saravanan Priya  
+[LinkedIn](https://linkedin.com/in/rishithasp) | [Portfolio](https://rishitha.dev)
